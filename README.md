@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="https://github.com/HelloMoto069/HelloMoto069/blob/main/banner.png" />
   
 </div>
 
