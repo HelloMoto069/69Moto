@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://github.com/HelloMoto069/HelloMoto069/blob/main/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://anuruddh-dev.netlify.app/)**
 
